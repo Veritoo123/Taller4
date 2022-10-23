@@ -4,10 +4,7 @@
  */
 package Animales;
 
-/**
- *
- * @author Veronica
- */
+
 public class Prueba {
     public static void main(String[] args) {
     Animal[] animales = new Animal[4]; 

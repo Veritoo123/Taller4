@@ -4,10 +4,6 @@
  */
 package Animales;
 
-/**
- *
- * @author Veronica
- */
 public abstract class Animal {
     protected String sonido; 
     protected String alimentos; 

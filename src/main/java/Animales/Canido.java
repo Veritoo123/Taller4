@@ -4,10 +4,7 @@
  */
 package Animales;
 
-/**
- *
- * @author Veronica
- */
+
 public abstract class Canido extends Animal{
     
 }

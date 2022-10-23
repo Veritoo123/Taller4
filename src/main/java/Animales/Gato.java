@@ -4,10 +4,7 @@
  */
 package Animales;
 
-/**
- *
- * @author Veronica
- */
+
 public class Gato extends Felino{
     @Override
     public String getSonido() {
