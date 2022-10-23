@@ -16,6 +16,7 @@ principal */
 miVentanaPrincipal= new VentanaPrincipal(); /* Crea la ventana
 principal */
 miVentanaPrincipal.setVisible(true); /* Establece la ventana
-como visible */
+como visible
+*/
 }
 }
